@@ -1,10 +1,10 @@
 package com.example.Security.user;
 
 import jakarta.persistence.*;
-import jdk.jfr.Enabled;
+//import jdk.jfr.Enabled;
 import lombok.*;
-import org.hibernate.sql.exec.spi.StandardEntityInstanceResolver;
-import org.springframework.boot.autoconfigure.web.WebProperties;
+//import org.hibernate.sql.exec.spi.StandardEntityInstanceResolver;
+//import org.springframework.boot.autoconfigure.web.WebProperties;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
